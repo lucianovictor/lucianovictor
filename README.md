@@ -6,13 +6,12 @@ Sou um entusiasta de tecnologia que ama resolver problemas através de código e
 
 Tenho experiência com desenvolvimento em HTML5, CSS, Javascript, Nodejs e React. Conhecimento adquirido no Curso Jstack.  
 
-
-<div align="center">
-  <a href="https://github.com/lucianovictor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianovictor&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianovictor&layout=compact&langs_count=7&theme=react"/>
+ <div>
+  <a href="https://github.com/sauloveigr">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucianovictor&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianovictor&layout=compact&langs_count=7&theme=aura"/>
 </div>
-  
+ 
   <div align="center">
   <img align="center" alt="lucianovictor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucianovictor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
