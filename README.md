@@ -8,8 +8,8 @@ Tenho experiência com desenvolvimento em HTML5, CSS, Javascript, Nodejs e React
 
  <div>
   <a href="https://github.com/lucianovictor">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucianovictor&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianovictor&layout=compact&langs_count=7&theme=aura"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucianovictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianovictor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
   <div align="center">
