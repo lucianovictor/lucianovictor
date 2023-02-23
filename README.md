@@ -1,10 +1,7 @@
 <h1 align="center"> Olá! Eu sou o Luciano Victor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1> 
 
-Graduando em Ciências da computação pela Universidade Braz Cubas. 
+Me chamo Luciano Victor, moro em Suzano - São Paulo, tenho 24 anos, Graduando em Ciências da computação pela Universidade Braz Cubas e atualmente sou desenvolvedor Front-End. 
 
-Sou um entusiasta de tecnologia que ama resolver problemas através de código e proporcionar crescimento sustentável e escalabilidade aos projetos. 
-
-Tenho experiência com desenvolvimento em HTML5, CSS, Javascript, Nodejs e React. Conhecimento adquirido no Curso Jstack.  
 
  <div align="center">
   <a href="https://github.com/lucianovictor">
