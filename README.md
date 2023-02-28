@@ -5,7 +5,7 @@ Me chamo Luciano Victor, moro em Suzano - São Paulo, tenho 24 anos, Graduando e
 
  <div align="center">
   <a href="https://github.com/lucianovictor">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucianovictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucianovictor&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianovictor&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
  
