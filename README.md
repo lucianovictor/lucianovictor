@@ -15,5 +15,7 @@ Me chamo Luciano Victor, moro em Suzano - São Paulo, tenho 24 anos, Graduando e
   <img align="center" alt="lucianovictor-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="lucianovictor-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
-   ![snake gif](https://github.com/lucianovictor/lucianovictor/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/lucianovictor/lucianovictor/blob/output/github-contribution-grid-snake.svg)
+
 
