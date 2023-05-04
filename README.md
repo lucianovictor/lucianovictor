@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Eu sou o Luciano Victor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1> 
 
-Me chamo Luciano Victor, moro em Suzano - São Paulo, tenho 24 anos, Graduando em Ciências da computação pela Universidade Braz Cubas e atualmente sou desenvolvedor Front-End. 
+Me chamo Luciano Victor, moro em Suzano - São Paulo, tenho 24 anos, Graduando em Ciências da computação pela Universidade Braz Cubas e atualmente sou desenvolvedor web com experiência em React, Sass, Styled Components, Next.js, Node.js, MongoDB, Tailwind e Docker. Adquirir essas habilidades através de cursos e projetos em que trabalhei, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades existentes. Sou apaixonado por desenvolver soluções inovadoras e escaláveis que agregam valor aos meus clientes e usuários finais. Tenho habilidades de colaboração em equipe e capacidade de trabalhar sob pressão. Se você está procurando um desenvolvedor web confiável e experiente, estou disponível para trabalhar em projetos desafiadores e de alta qualidade.
 
 
  <div align="center">
